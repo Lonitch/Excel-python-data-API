@@ -3,7 +3,7 @@
 ## 本工具有三份小代码：
 - blankprep.py： 用于准备数据录入的空白excel表格
 - sheetWriter.py: 用于将新的数据写入模板表格
-- sheetWriter.py: 手动录入信息并写入模板表格
+- sheetWriter2.py: 手动录入信息并写入模板表格
 
 ## 使用工具之前：
 - 将代码复制到目标文件夹
